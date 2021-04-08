@@ -3,3 +3,5 @@ este es el primer texto del proyecto
 se ha creado primera rama branch1
 
 Efectua qualsevol altre canvi al document i tot seguir realitzar l’acció “add” “commit” i “push”
+
+se ha puesto contenido en el branch 1
